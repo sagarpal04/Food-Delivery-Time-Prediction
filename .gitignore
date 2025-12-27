@@ -1,0 +1,24 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Streamlit
+.streamlit/
+
+# Data
+Food_Delivery_Times.csv
+
+# Temporary Scripts
+inspect_encoder.py
+inspect_model.py
+inspect_data.py
+
+# Models (Optional: Comment out if you want to commit these)
+# *.pkl
