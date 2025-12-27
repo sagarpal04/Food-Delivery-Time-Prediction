@@ -1,7 +1,13 @@
 
 # Food Delivery Time Prediction
 
-<img width="700"  alt="image" src="https://github.com/user-attachments/assets/44040043-16d4-4417-b34e-c2c32a1b0977" />
+<p align="center">
+  <img
+    width="700"
+    alt="image"
+    src="https://github.com/user-attachments/assets/44040043-16d4-4417-b34e-c2c32a1b0977"
+  />
+</p>
 
 ## Project Description
 
