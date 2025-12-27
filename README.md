@@ -1,8 +1,7 @@
-%%writefile README.md
 
 # Food Delivery Time Prediction
 
-![Delivery Time Prediction App](https://raw.githubusercontent.com/sagarpal04/Food-Delivery-Time-Prediction/main/screenshot.png) <!-- Replace with a screenshot of your app if you have one -->
+<img width="700"  alt="image" src="https://github.com/user-attachments/assets/44040043-16d4-4417-b34e-c2c32a1b0977" />
 
 ## Project Description
 
